@@ -61,4 +61,4 @@ let imageAr = [
 
   document.getElementById('myImages').addEventListener('click', chgImage);
 
-  console.dir(window)
+  
